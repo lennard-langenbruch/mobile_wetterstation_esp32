@@ -1,4 +1,15 @@
-# Mobile Wetterstation 
+# Mobile Wetterstation
+
+## Hardware
+### ESP32 Dev Modul mit DHT22 Temperatursensor an Powerbank über WLAN
+<img height="200" alt="grafik" src="https://github.com/user-attachments/assets/573a8094-79ab-4721-bbeb-9142e7b98a41" />
+
+### LILYGO7000G: ESP32 mit Akku Slot über GPS-fähiges LTE Modul und provisorischen DHT11
+<img  height="300" alt="grafik" src="https://github.com/user-attachments/assets/cae90bad-d080-406c-8dfd-7c2668b7b14e"/>
+
+
+
+
 
 ## Lokal starten
 
