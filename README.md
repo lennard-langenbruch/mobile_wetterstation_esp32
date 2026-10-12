@@ -70,8 +70,11 @@ Jeder Push auf `main` startet `.github/workflows/deploy.yml`: installieren, lint
 `webanwendung/out/` auf GitHub Pages veröffentlichen.
 
 ## Todos
-<p>BME680 fest löten</p>
-<p>Asymmetrische Verschlüsselung d. JSON Payload</p>
+<ul>
+<li>BME680 fest löten</li>
+<li>Asymmetrische Verschlüsselung d. JSON Payload</li>
+<li>Typescript refactor; Frontend</li>
+</ul>
 
 
 
