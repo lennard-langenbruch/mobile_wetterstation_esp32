@@ -68,3 +68,10 @@ firmware/                    ESP32-Sketches (Arduino: je Sketch ein gleichnamige
 
 Jeder Push auf `main` startet `.github/workflows/deploy.yml`: installieren, linten, bauen und
 `webanwendung/out/` auf GitHub Pages veröffentlichen.
+
+## Todos
+<p>BME680 fest löten</p>
+<p>Asymmetrische Verschlüsselung d. JSON Payload</p>
+
+
+
